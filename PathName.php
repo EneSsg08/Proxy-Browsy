@@ -1,1 +1,1 @@
-Proxy-Browsy-V1
+ProxyBrowsyV1
