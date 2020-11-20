@@ -1,1 +1,1 @@
-Web Proxy V2
+V2
