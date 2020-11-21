@@ -1,1 +1,1 @@
-ProxyBrowsyV1
+ProxyBrowsyV1.exe
