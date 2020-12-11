@@ -1,5 +1,4 @@
-12/12/2020 - 415 Proxy 
-EneSsg08 Tarafından Kontrol Edildi
+415 Proxy EneSsg08 Tarafından Kontrol Edildi
 88.198.50.103:8080
 88.198.24.108:8080
 176.9.119.170:8080
